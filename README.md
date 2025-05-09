@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
-## DATE: 
+## DATE: 09-05-2025
 
 ## AIM:
 ###   To determine & simulate the displacement & velocity analysis for the given slider crank mechanism. 
@@ -44,9 +44,13 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
-![Screenshot 2025-05-08 144806](https://github.com/user-attachments/assets/5bbca46a-9aac-422f-a41e-5f91b5b95eff)
-![Screenshot 2025-05-08 144855](https://github.com/user-attachments/assets/fb09d064-6088-4cce-9396-e0b5e627b8b1![Screenshot 2025-05-08 144909](https://github.com/user-attachments/assets/f21649e4-0952-4658-a280-18c126300b08)
-)
+
+![Screenshot 2025-05-09 180153](https://github.com/user-attachments/assets/460c3a1e-521d-430e-bc57-99863b9034aa)
+
+![Screenshot 2025-05-09 180229](https://github.com/user-attachments/assets/a61ed24c-0301-40e1-8093-f9a88d5f9f3a)
+
+![Screenshot 2025-05-09 180259](https://github.com/user-attachments/assets/b0afbeab-2446-4cbe-a1ef-e45e39dc6fe1)
+
 
 
 ### Name: AHAMADH SULAIMAN M
